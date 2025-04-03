@@ -1,9 +1,9 @@
-rojo
+rojo456
 azul
 verde
 amarillo
 naranja
 morado
 rosa
-cyan
+cyan456
 
