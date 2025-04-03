@@ -1,4 +1,5 @@
 rojo456
+rojo123
 azul
 verde
 amarillo
@@ -6,4 +7,5 @@ naranja
 morado
 rosa
 cyan456
+cyan123
 
